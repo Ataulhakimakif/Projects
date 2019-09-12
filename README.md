@@ -1,2 +1,2 @@
 # Projects
-hello, this where i upload my projects
+hello, this is where i upload my projects.
